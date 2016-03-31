@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Uber for Cycle</string>
+
+    <string name="hello_world">BikeShare : by Jedi_padawans!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="name">Name</string>
+    <string name="action_search">Search</string>
+    <string name="action_compose">Action compose</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+    <string name="title_activity_">Activity</string>
+</resources>
